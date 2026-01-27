@@ -8650,5 +8650,285 @@
     "prerequisite_courses" : [ ],
     "equivalent_courses" : [ ],
     "concomitant_courses" : [ ]
+  },
+  "IFT3325" : {
+    "name" : "Téléinformatique",
+    "description" : "Architecture des systèmes répartis. Modèle de référence OSI. Introduction aux moyens physiques de transmission de données. Protocoles de lien, de routage et de contrôle de flux. Introduction aux réseaux d'ordinateurs et à leurs protocoles.",
+    "id" : "IFT3325",
+    "credits" : 3.0,
+    "available_terms" : {
+      "autumn" : true,
+      "winter" : false,
+      "summer" : false
+    },
+    "available_periods" : {
+      "daytime" : true,
+      "evening" : false
+    },
+    "schedules" : [ {
+      "_id" : "A24IFT3325",
+      "sigle" : "IFT3325",
+      "semester" : "A24",
+      "semester_int" : 243,
+      "fetch_date" : "2025-09-05",
+      "sections" : [ {
+        "name" : "A",
+        "teachers" : [ "Hafid,Abdelhakim" ],
+        "number_inscription" : "50",
+        "capacity" : "70",
+        "volets" : [ {
+          "name" : "TH",
+          "activities" : [ {
+            "days" : [ "Ma" ],
+            "start_time" : "08:30",
+            "end_time" : "10:29",
+            "start_date" : "2024-09-03",
+            "end_date" : "2024-10-18",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          }, {
+            "days" : [ "Ma" ],
+            "start_time" : "08:30",
+            "end_time" : "10:29",
+            "start_date" : "2024-10-28",
+            "end_date" : "2024-12-06",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          }, {
+            "days" : [ "Je" ],
+            "start_time" : "15:30",
+            "end_time" : "16:29",
+            "start_date" : "2024-09-03",
+            "end_date" : "2024-10-11",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          }, {
+            "days" : [ "Je" ],
+            "start_time" : "15:30",
+            "end_time" : "16:29",
+            "start_date" : "2024-10-28",
+            "end_date" : "2024-12-06",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          } ]
+        }, {
+          "name" : "Intra",
+          "activities" : [ {
+            "days" : [ "Je" ],
+            "start_time" : "16:30",
+            "end_time" : "18:29",
+            "start_date" : "2024-10-17",
+            "end_date" : "2024-10-17",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          } ]
+        }, {
+          "name" : "Final",
+          "activities" : [ {
+            "days" : [ "Je" ],
+            "start_time" : "15:30",
+            "end_time" : "18:29",
+            "start_date" : "2024-12-12",
+            "end_date" : "2024-12-12",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1355",
+            "mode" : "P"
+          } ]
+        } ]
+      }, {
+        "name" : "A101",
+        "teachers" : [ "Hafid,Abdelhakim" ],
+        "number_inscription" : "50",
+        "capacity" : "70",
+        "volets" : [ {
+          "name" : "TP",
+          "activities" : [ {
+            "days" : [ "Je" ],
+            "start_time" : "16:30",
+            "end_time" : "18:29",
+            "start_date" : "2024-09-03",
+            "end_date" : "2024-10-11",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          }, {
+            "days" : [ "Je" ],
+            "start_time" : "16:30",
+            "end_time" : "18:29",
+            "start_date" : "2024-10-28",
+            "end_date" : "2024-12-06",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1177",
+            "mode" : "P"
+          } ]
+        } ]
+      } ]
+    }, {
+      "_id" : "A25IFT3325",
+      "sigle" : "IFT3325",
+      "semester" : "A25",
+      "semester_int" : 253,
+      "fetch_date" : "2025-09-05",
+      "sections" : [ {
+        "name" : "A",
+        "teachers" : [ "Hafid,Abdelhakim" ],
+        "number_inscription" : "77",
+        "capacity" : "70",
+        "volets" : [ {
+          "name" : "TH",
+          "activities" : [ {
+            "days" : [ "Je" ],
+            "start_time" : "08:30",
+            "end_time" : "10:29",
+            "start_date" : "2025-09-02",
+            "end_date" : "2025-10-10",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3205",
+            "mode" : "P"
+          }, {
+            "days" : [ "Je" ],
+            "start_time" : "08:30",
+            "end_time" : "10:29",
+            "start_date" : "2025-10-27",
+            "end_date" : "2025-12-05",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3205",
+            "mode" : "P"
+          }, {
+            "days" : [ "Lu" ],
+            "start_time" : "09:30",
+            "end_time" : "10:29",
+            "start_date" : "2025-09-02",
+            "end_date" : "2025-10-10",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          }, {
+            "days" : [ "Lu" ],
+            "start_time" : "09:30",
+            "end_time" : "10:29",
+            "start_date" : "2025-10-27",
+            "end_date" : "2025-10-31",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          }, {
+            "days" : [ "Lu" ],
+            "start_time" : "09:30",
+            "end_time" : "10:29",
+            "start_date" : "2025-11-10",
+            "end_date" : "2025-12-09",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          } ]
+        }, {
+          "name" : "Intra",
+          "activities" : [ {
+            "days" : [ "Lu" ],
+            "start_time" : "10:30",
+            "end_time" : "12:29",
+            "start_date" : "2025-11-03",
+            "end_date" : "2025-11-03",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          } ]
+        }, {
+          "name" : "Final",
+          "activities" : [ {
+            "days" : [ "Je" ],
+            "start_time" : "08:30",
+            "end_time" : "11:29",
+            "start_date" : "2025-12-18",
+            "end_date" : "2025-12-18",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "André-Aisenstadt",
+            "room" : "1140",
+            "mode" : "P"
+          } ]
+        } ]
+      }, {
+        "name" : "A101",
+        "teachers" : [ "Hafid,Abdelhakim" ],
+        "number_inscription" : "77",
+        "capacity" : "70",
+        "volets" : [ {
+          "name" : "TP",
+          "activities" : [ {
+            "days" : [ "Lu" ],
+            "start_time" : "10:30",
+            "end_time" : "12:29",
+            "start_date" : "2025-09-02",
+            "end_date" : "2025-10-10",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          }, {
+            "days" : [ "Lu" ],
+            "start_time" : "10:30",
+            "end_time" : "12:29",
+            "start_date" : "2025-10-27",
+            "end_date" : "2025-10-31",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          }, {
+            "days" : [ "Lu" ],
+            "start_time" : "10:30",
+            "end_time" : "12:29",
+            "start_date" : "2025-11-10",
+            "end_date" : "2025-12-09",
+            "campus" : "Montréal",
+            "place" : "Montréal",
+            "pavillon_name" : "3200 Jean-Brillant",
+            "room" : "B-3255",
+            "mode" : "P"
+          } ]
+        } ]
+      } ]
+    } ],
+    "requirement_text" : "prerequisite_courses :  IFT2245\n\nequivalent_courses :  IFT3325/IFT3320",
+    "prerequisite_courses" : [ "IFT2245" ],
+    "equivalent_courses" : [ "IFT3320", "IFT3325" ],
+    "concomitant_courses" : [ ]
   }
 }
