@@ -381,7 +381,6 @@ Devoir2-2255/
 │  │
 │  └── pom.xml                             → Configuration Maven
 │
-├─ equipe2_feedback.pdf                    → Feedback devoir1
 ├─ mkdocs.yml                              → Configuration du site
 ├─ requirements.txt                        → Dépendances Python
 ├─ Pipfile                                 → Environnement virtuel pipenv
